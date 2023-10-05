@@ -8,3 +8,5 @@
 [Climate-Change](https://athar-ansari.github.io/Climate-Change/)
 
 ## Preview
+
+file:///C:/Users/athar/Pictures/Screenshots/climate-change.png
