@@ -1,5 +1,6 @@
 # Climate-Change
-![climate-change](https://github.com/athar-ansari/Climate-Change/assets/118714083/b9d46297-4bf7-416b-a3e6-ef5a52b01514)
+<img src="https://github.com/athar-ansari/Climate-Change/assets/118714083/b9d46297-4bf7-416b-a3e6-ef5a52b01514.png" width="75%">
+
 
 ## 📋 About
  - This is a simple animated weather website.
@@ -9,5 +10,6 @@
 [Climate-Change](https://athar-ansari.github.io/Climate-Change/)
 
 ## 👓 Preview
-https://github.com/athar-ansari/Climate-Change/assets/118714083/3610f227-f9ac-44c7-9ec9-cf8fc225ecc4
+
+![Climate-Change](https://github.com/athar-ansari/Climate-Change/assets/118714083/0154f766-7cda-40b7-afab-7fe56f95e759)
 
