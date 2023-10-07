@@ -1,5 +1,5 @@
 # Climate-Change
-<img src="https://github.com/athar-ansari/Climate-Change/assets/118714083/b9d46297-4bf7-416b-a3e6-ef5a52b01514.png" width="75%">
+<img src="https://github.com/athar-ansari/Climate-Change/assets/118714083/b9d46297-4bf7-416b-a3e6-ef5a52b01514" width="75%">
 
 
 ## 📋 About
